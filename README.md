@@ -28,8 +28,6 @@
 | 🔎 Web Research Bot | Collects structured data from websites quickly   | Python, Selenium|
 | 📑 PDF to Excel     | Converts PDFs into well-organized spreadsheets   | Python, Excel   |
 
-*(Add your real or practice projects here with repo links)*
-
 ---
 
 ## 📈 My GitHub Stats
