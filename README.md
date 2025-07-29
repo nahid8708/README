@@ -1,4 +1,5 @@
 # 👋 Hey, I'm Altafur Rahman Nahid
+<img src="https://i.postimg.cc/Y9P0FR2k/IMG-8688.avif" align="right" width="200" style="border-radius: 10px;">
 
 💻 **Computer Science Student | Aspiring Data Analyst | Future Cybersecurity Pro**
 
@@ -31,7 +32,9 @@
 ---
 
 ## 📈 My GitHub Stats
-![Nahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahid-cse&sh)
+![Nahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahid-cse&show_icons=true&theme=tokyonight)
+
+---
 
 ## 🤝 Connect with Me
 - 📧 **Email:** [your-email-here]  
@@ -44,6 +47,3 @@
 
 ### ⚡ Fun Fact:
 > "Code, coffee, and late-night debugging – that's my love language ☕💻🔥."
-
----
-     
