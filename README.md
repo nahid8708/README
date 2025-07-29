@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Altafur Rahman Nahid
-<img src="https://i.postimg.cc/Y9P0FR2k/IMG-8688.avif" align="right" width="200" style="border-radius: 10px;">
+<img src="https://i.postimg.cc/Y9P0FR2k/IMG-8688.avif" align="right" width="250" style="border-radius: 10px;">
 
 💻 **Computer Science Student | Aspiring Data Analyst | Future Cybersecurity Pro**
 
